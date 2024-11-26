@@ -1,0 +1,4 @@
+# Ignorando arquivos de configuração
+node_modules
+api_key.env
+*.env
